@@ -12,6 +12,18 @@ I'm currently a Senior R&D Engineer at Lowe's Innovation Labs where I work on th
 
 ### Older projects
 
+
+<center>
+<h2>Oleg Alexander</h2>
+<p><a href="https://www.linkedin.com/in/olegalexander">LinkedIn</a></p>
+<p><a href="http://www.imdb.com/name/nm3262472/">IMDB</a></p>
+<p><a href="https://www.researchgate.net/profile/Oleg_Alexander">ResearchGate</a></p>
+<p><a href="https://medium.com/@olegalexander">Medium</a></p>
+<p><a href="https://pub.dev/packages/lakos">Lakos for Dart</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.olegalexander.littleslawcalculator">Little's Law Calculator</a></p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ULPXCihY3Lk?rel=0" frameborder="0" allowfullscreen></iframe>
+</center>
+
 ### Further reading
 -->
 
